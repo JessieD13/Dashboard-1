@@ -19,7 +19,7 @@
 	- 7.2 Database design
 		- 7.2.1 [数据库设计](documents/7_design/database_design.md)
 		- 7.2.2 [第三方数据评审结果](https://github.com/FiringCalorie/Dashboard/issues)
-	- 7.3 [API design](documents/7_design/api_design.md)
+	- 7.3 [API design](documents/7_design/api_design/API-Swagger-Preview/index.html)
 	- 7.4 [Software Architecture Document](documents/7_design/software_architecture_document.md)
 8. 生产规范与指南
 	- 8.1 [代码规范](documents/8_production_specifications_and_guidelines/code_style.md)
@@ -37,3 +37,4 @@ X2. Tech/Work Report
 X3. Final Report
   - [小组分工与贡献率说明](documents/x3_final_report/contribution_rate_description.md)
   - [18214860-前端开发](documents/x3_final_report/18214860_前端开发.md)
+  - [18214772-前端开发](documents/x3_final_report/18214772_前端开发.md)
