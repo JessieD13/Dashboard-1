@@ -24,7 +24,7 @@
 	- 7.5 [Usecase Design](documents/7_design/usecase_design.md)
 8. 生产规范与指南
 	- 8.1 [代码规范](documents/8_production_specifications_and_guidelines/code_style.md)
-	- 8.2 [REST API设计规范](documents/8_production_specifications_and_guidelines/rest_api_design_stantard.md)
+	- 8.2 [REST API设计规范](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
 	- 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](documents/8_production_specifications_and_guidelines/BCE.md)
 	- 8.4 [部署说明](documents/8_production_specifications_and_guidelines/deployment.md)
 9. [成品展示](documents/9_display.md)
