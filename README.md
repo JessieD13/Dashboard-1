@@ -21,11 +21,10 @@
 		- 7.2.2 [第三方数据评审结果](https://github.com/FiringCalorie/Dashboard/issues)
 	- 7.3 [API design](documents/7_design/api_design.md)
 	- 7.4 [Software Architecture Document](documents/7_design/software_architecture_document.md)
-	- 7.5 [Usecase Design](documents/7_design/usecase_design.md)
 8. 生产规范与指南
 	- 8.1 [代码规范](documents/8_production_specifications_and_guidelines/code_style.md)
 	- 8.2 [REST API设计规范](http://www.ruanyifeng.com/blog/2014/05/restful_api.html)
-	- 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](documents/8_production_specifications_and_guidelines/BCE.md)
+	- 8.3 [详细设计（BCE方法）到应用程序框架映射指南（包图）](documents/8_production_specifications_and_guidelines/BCE.md)
 	- 8.4 [部署说明](documents/8_production_specifications_and_guidelines/deployment.md)
 9. [成品展示](documents/9_display.md)
 
@@ -36,4 +35,5 @@ X2. Tech/Work Report
   - [18214860-基于Vue项目的用户浏览器加载资源文件的性能优化](https://blog.csdn.net/SkyeBeFreeman/article/details/83273677)
 
 X3. Final Report
+  - [小组分工与贡献率说明](documents/x3_final_report/contribution_rate_description.md)
   - [18214860-前端开发](documents/x3_final_report/18214860_前端开发.md)
