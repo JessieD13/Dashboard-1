@@ -15,21 +15,23 @@
   - Frontend: 张皓天、林国丹
   - Backend: 时福源、梁赋航
 
-## Plan
+## Iterations
 
-### Week 3 - 4
+### Inception (Week 3 - 5)
+
+- Week 3 - 4
 
   - 组建团队
   - 创建团队Github账户
   - 项目规划、前期调研、需求分析
   
-### Week 4 - 5
+- Week 4 - 5
 
   - UI 界面线框图
   - 数据模型设计
   - RESTful API 设计
   
-### Week 5 - 10
+### Iteration 1 (Week 5 - 10)
 
 完成面向用户的2C前端后端，其中主要包括：
   - 前端
@@ -45,7 +47,7 @@
       - 订单
       - 商家
       
-### Week 10 - 15
+### Iteration 2 (Week 10 - 15)
 
 完成面向商家的2B前端后端，其中主要包括：
 - 前端
@@ -58,7 +60,7 @@
 - 后端
    - 完成2B后台设计，搭建 API 、数据库以及简单数据
    
-### Week 15 - 19
+### Iteration 3 (Week 15 - 19)
 
 - 产品 & 设计
 - 前端
