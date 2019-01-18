@@ -7,6 +7,7 @@
 | 18214860 | 张皓天 | 组长、前端开发、测试 |
 | 18214772 | 林国丹 | 前端开发、测试 |
 | 18214729 | 高凯诗 | 数据库&API设计、文档 |
+| 18214639 | 李楠 | 项目规划、前期调研 |
 
 ## 贡献率
 <table>
@@ -16,6 +17,7 @@
 		<td>张皓天</td>
 		<td>林国丹</td>
 		<td>高凯诗</td>
+		<td>李楠</td>
 	</tr>
 	<tr>
 		<td>源码贡献率</td>
@@ -23,6 +25,7 @@
 		<td>100%</td>
 		<td></td>
 		<td></td>
+    <td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -30,6 +33,7 @@
 		<td></td>
 		<td>100%</td>
 		<td></td>
+    <td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -37,18 +41,21 @@
 		<td></td>
 		<td></td>
 		<td></td>
+    <td></td>
 	</tr>
 	<tr>
 		<td>设计贡献率</td>
 		<td>面向商家前端</td>
-		<td>100%</td>
+		<td>50</td>
 		<td></td>
+    <td>50%</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td></td>
 		<td>面向用户前端</td>
 		<td></td>
+    <td></td>
 		<td>100%</td>
 		<td></td>
 	</tr>
@@ -58,6 +65,7 @@
 		<td></td>
 		<td></td>
 		<td>100%</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -65,6 +73,7 @@
 		<td></td>
 		<td></td>
 		<td>50%</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>测试贡献率</td>
@@ -72,6 +81,7 @@
 		<td>100%</td>
 		<td></td>
 		<td></td>
+    <td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -79,6 +89,7 @@
 		<td></td>
 		<td>100%</td>
 		<td></td>
+    <td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -86,13 +97,39 @@
 		<td></td>
 		<td></td>
 		<td></td>
+    <td></td>
 	</tr>
 	<tr>
 		<td>文档贡献率</td>
+		<td>项目规划</td>
+		<td></td>
+		<td></td>
+    <td></td>
+		<td>100%</td>
+	</tr>
+	<tr>
+		<td></td>
 		<td>前期调研</td>
 		<td></td>
 		<td></td>
-		<td>30%</td>
+    <td></td>
+		<td>100%</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>项目愿景</td>
+		<td></td>
+		<td></td>
+    <td></td>
+		<td>100%</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>产品特性</td>
+		<td></td>
+		<td></td>
+    <td></td>
+		<td>100%</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -100,6 +137,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
+    <td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -107,6 +145,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
+    <td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -114,6 +153,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
+    <td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -121,6 +161,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
+    <td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -128,6 +169,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
+    <td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -135,6 +177,7 @@
 		<td></td>
 		<td></td>
 		<td>50%</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -142,6 +185,7 @@
 		<td></td>
 		<td></td>
 		<td>100%</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -149,6 +193,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
+    <td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -156,6 +201,7 @@
 		<td>100%</td>
 		<td></td>
 		<td></td>
+    <td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -163,12 +209,14 @@
 		<td>100%</td>
 		<td></td>
 		<td></td>
+    <td></td>
 	</tr>
 	<tr>
 		<td></td>
 		<td>部署说明</td>
 		<td>100%</td>
 		<td></td>
+    <td></td>
 		<td></td>
 	</tr>
 	<tr>
@@ -177,6 +225,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
+		<td>100%</td>
 	</tr>
 	<tr>
 		<td>总贡献率</td>

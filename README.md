@@ -40,3 +40,4 @@ X3. Final Report
   - [18214860-前端开发](documents/x3_final_report/18214860_前端开发.md)
   - [18214772-前端开发](documents/x3_final_report/18214772_前端开发.md)
   - [18214729-数据库设计](documents/x3_final_report/18214729_数据库设计.md)
+  - [18214639-项目规划](documents/x3_final_report/18214639_项目规划.md)
