@@ -10,20 +10,20 @@
 
 为此我们设计了4组页面已完成该功能。
 
-![](./assets/user_all.png)
+![](../assets/user_all.png)
 
 登录界面：
-![](./assets/登录.png)
+![](../assets/登录.png)
 
 菜单编辑：
 ![](./assets/菜单编辑.png)
 
 订单管理：
-![](./assets/订单管理.png)
+![](../订单管理.png)
 
 
 活动编辑：
-![](./assets/活动编辑.png)
+![](../assets/活动编辑.png)
 
 
 具体看ui_design/front_end_2B
