@@ -6,7 +6,7 @@
 | ---- | ---- | ---- |
 | 18214860 | 张皓天 | 组长、前端开发、测试 |
 | 18214772 | 林国丹 | 前端开发、测试 |
-
+| 18214639 | 李楠 | 项目规划、前期调研 |
 ## 贡献率
 <table>
 	<tr>
@@ -14,11 +14,13 @@
 		<td></td>
 		<td>张皓天</td>
 		<td>林国丹</td>
+		<td>李楠</td>
 	</tr>
 	<tr>
 		<td>源码贡献率</td>
 		<td>面向商家前端</td>
 		<td>100%</td>
+		<td></td>
 		<td></td>
 	</tr>
 	<tr>
@@ -26,10 +28,12 @@
 		<td>面向用户前端</td>
 		<td></td>
 		<td>100%</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
 		<td>后端</td>
+		<td></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -38,16 +42,19 @@
 		<td>面向商家前端</td>
 		<td>100%</td>
 		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
 		<td>面向用户前端</td>
 		<td></td>
 		<td>100%</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
 		<td>数据库</td>
+		<td></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -56,11 +63,13 @@
 		<td>API</td>
 		<td></td>
 		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>测试贡献率</td>
 		<td>面向商家前端</td>
 		<td>100%</td>
+		<td></td>
 		<td></td>
 	</tr>
 	<tr>
@@ -68,6 +77,7 @@
 		<td>面向用户前端</td>
 		<td></td>
 		<td>100%</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -77,13 +87,36 @@
 	</tr>
 	<tr>
 		<td>文档贡献率</td>
+		<td>项目规划</td>
+		<td></td>
+		<td></td>
+		<td>100%</td>
+	</tr>
+	<tr>
+		<td></td>
 		<td>前期调研</td>
 		<td></td>
 		<td></td>
+		<td>100%</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>项目愿景</td>
+		<td></td>
+		<td></td>
+		<td>100%</td>
+	</tr>
+	<tr>
+		<td></td>
+		<td>产品特性</td>
+		<td></td>
+		<td></td>
+		<td>100%</td>
 	</tr>
 	<tr>
 		<td></td>
 		<td>用例图</td>
+		<td></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -92,10 +125,12 @@
 		<td>活动图</td>
 		<td></td>
 		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
 		<td>领域模型</td>
+		<td></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -104,10 +139,12 @@
 		<td>状态图</td>
 		<td></td>
 		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
 		<td>功能模型</td>
+		<td></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -116,10 +153,12 @@
 		<td>补充需求</td>
 		<td></td>
 		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
 		<td>系统架构</td>
+		<td></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -128,11 +167,13 @@
 		<td>包图</td>
 		<td></td>
 		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
 		<td>代码规范</td>
 		<td>100%</td>
+		<td></td>
 		<td></td>
 	</tr>
 	<tr>
@@ -140,11 +181,13 @@
 		<td>REST API设计规范</td>
 		<td>100%</td>
 		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
 		<td>部署说明</td>
 		<td>100%</td>
+		<td></td>
 		<td></td>
 	</tr>
 	<tr>
@@ -152,9 +195,11 @@
 		<td>会议记录</td>
 		<td></td>
 		<td></td>
+		<td>100%</td>
 	</tr>
 	<tr>
 		<td>总贡献率</td>
+		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
