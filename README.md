@@ -16,7 +16,7 @@
 	- 7.1 UI design
 		- [To Customer](documents/7_design/ui_design/to_customer.md)
 		- [To Restaurant](documents/7_design/ui_design/to_restaurant.md)
-		- [可视化UI](Dashboard/documents/7_design/ui_design/front_end_2B/index.html)
+		- [To_R可视化UI](documents/7_design/ui_design/front_end_2B/index.html)
 	- 7.2 Database design
 		- 7.2.1 [数据库设计](documents/7_design/database_design.md)
 		- 7.2.2 [第三方数据评审结果](https://github.com/FiringCalorie/Dashboard/issues)
