@@ -5,12 +5,12 @@
 2.菜品合并，针对不同或者相同用户
 
 而活动界面编辑由于考虑到对于饭点并非主要功能，此处没有实现。
-![](../../assets/restaurant_add.png)
+![](../assets/restaurant_add.png)
 
 后厨显示：
-![](../../assets/后厨显示.png)
+![](../assets/后厨显示.png)
 
 菜品合并：
-![](../../assets/菜品合并.png)
+![](../assets/菜品合并.png)
 
 具体看ui_design/front_end_2B
