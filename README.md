@@ -38,3 +38,4 @@ X3. Final Report
   - [小组分工与贡献率说明](documents/x3_final_report/contribution_rate_description.md)
   - [18214860-前端开发](documents/x3_final_report/18214860_前端开发.md)
   - [18214772-前端开发](documents/x3_final_report/18214772_前端开发.md)
+  - [18214639-项目规划](documents/x3_final_report/18214639_项目规划.md)
