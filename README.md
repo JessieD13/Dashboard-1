@@ -1,4 +1,4 @@
-# Dashboard
+﻿# Dashboard
 
 1. [About（项目规划）](documents/1_about.md)
 2. [Team profile（团队组建）](documents/2_team_profile.md)
@@ -15,7 +15,9 @@
 7. Design(设计)
 	- 7.1 UI design
 		- [To Customer](documents/7_design/ui_design/to_customer.md)
-		- [To Restaurant](documents/7_design/ui_design/front_end_2B/index.html)
+		- [To Restaurant](documents/7_design/ui_design/to_restaurant.md)
+		- [可视化UI]（Dashboard/documents/7_design/ui_design/front_end_2B/index.html
+）
 	- 7.2 Database design
 		- 7.2.1 [数据库设计](documents/7_design/database_design.md)
 		- 7.2.2 [第三方数据评审结果](https://github.com/FiringCalorie/Dashboard/issues)
