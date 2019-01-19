@@ -1,4 +1,4 @@
-﻿# Contribution Rate Description
+# Contribution Rate Description
 
 ## 小组分工
 
@@ -18,11 +18,13 @@
 		<td>林国丹</td>
 		<td>高凯诗</td>
 		<td>李楠</td>
+		<td>陈洁璇</td>
 	</tr>
 	<tr>
 		<td>源码贡献率</td>
 		<td>面向商家前端</td>
 		<td>100%</td>
+		<td></td>
 		<td></td>
 		<td></td>
     <td></td>
@@ -32,6 +34,7 @@
 		<td>面向用户前端</td>
 		<td></td>
 		<td>100%</td>
+		<td></td>
 		<td></td>
     <td></td>
 	</tr>
@@ -41,14 +44,16 @@
 		<td></td>
 		<td></td>
 		<td></td>
+		<td></td>
     <td></td>
 	</tr>
 	<tr>
 		<td>设计贡献率</td>
 		<td>面向商家前端</td>
-		<td>50</td>
+		<td>50%</td>
 		<td></td>
-    <td>50%</td>
+    	<td>50%</td>
+		<td></td>
 		<td></td>
 	</tr>
 	<tr>
@@ -57,6 +62,7 @@
 		<td></td>
     <td></td>
 		<td>100%</td>
+		<td></td>
 		<td></td>
 	</tr>
 	<tr>
@@ -66,6 +72,7 @@
 		<td></td>
 		<td>100%</td>
 		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -74,11 +81,13 @@
 		<td></td>
 		<td>50%</td>
 		<td></td>
+		<td>50%</td>
 	</tr>
 	<tr>
 		<td>测试贡献率</td>
 		<td>面向商家前端</td>
 		<td>100%</td>
+		<td></td>
 		<td></td>
 		<td></td>
     <td></td>
@@ -89,11 +98,13 @@
 		<td></td>
 		<td>100%</td>
 		<td></td>
+		<td></td>
     <td></td>
 	</tr>
 	<tr>
 		<td></td>
 		<td>后端</td>
+		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -106,6 +117,7 @@
 		<td></td>
     <td></td>
 		<td>100%</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -114,6 +126,7 @@
 		<td></td>
     <td></td>
 		<td>100%</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -122,6 +135,7 @@
 		<td></td>
     <td></td>
 		<td>100%</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -130,6 +144,7 @@
 		<td></td>
     <td></td>
 		<td>100%</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -137,7 +152,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-    <td></td>
+    	<td></td>
+    	<td>100%</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -145,7 +161,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-    <td></td>
+    	<td></td>
+    	<td>100%</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -153,7 +170,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-    <td></td>
+    	<td></td>
+    	<td>100%</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -161,7 +179,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-    <td></td>
+    	<td></td>
+    	<td>100%</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -169,7 +188,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-    <td></td>
+    	<td></td>
+    	<td>100%</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -178,6 +198,7 @@
 		<td></td>
 		<td>50%</td>
 		<td></td>
+		<td>50%</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -185,6 +206,7 @@
 		<td></td>
 		<td></td>
 		<td>100%</td>
+		<td></td>
 		<td></td>
 	</tr>
 	<tr>
@@ -194,6 +216,7 @@
 		<td></td>
 		<td></td>
     <td></td>
+    <td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -201,6 +224,7 @@
 		<td>100%</td>
 		<td></td>
 		<td></td>
+    <td></td>
     <td></td>
 	</tr>
 	<tr>
@@ -210,6 +234,7 @@
 		<td></td>
 		<td></td>
     <td></td>
+    <td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -217,6 +242,7 @@
 		<td>100%</td>
 		<td></td>
     <td></td>
+		<td></td>
 		<td></td>
 	</tr>
 	<tr>
@@ -226,9 +252,12 @@
 		<td></td>
 		<td></td>
 		<td>100%</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>总贡献率</td>
+		<td></td>
+		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
