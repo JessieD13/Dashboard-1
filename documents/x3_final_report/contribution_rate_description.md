@@ -95,10 +95,10 @@
 		<td></td>
 		<td>API</td>
 		<td></td>
+		<td>100%</td>
 		<td></td>
-		<td>50%</td>
 		<td></td>
-		<td>50%</td>
+		<td></td>
 		<td></td>
 		<td></td>
 	</tr>
