@@ -1,4 +1,4 @@
-﻿# Dashboard
+# Dashboard
 
 1. [About（项目规划）](documents/1_about.md)
 2. [Team profile（团队组建）](documents/2_team_profile.md)
@@ -6,7 +6,7 @@
 4. [Vision（项目愿景）](documents/4_vision.md)
 5. [Product Backlog（产品特性）](documents/5_product_backlog.md)
 6. Requirement specification(需求规格说明)
-	- 6.1 [Usecase Diagram（用例图）](documents/6_requirement_specification/use_case.md#用例图)
+	- 6.1 [Usecase Diagram（用例图）](documents/6_requirement_specification/use_case_diagram.md#用例图)
 	- 6.2 [Use Cases（用例+活动图）](documents/6_requirement_specification/use_case.md#用例文本与活动图)
 	- 6.3 [Domain Model（领域模型）](documents/6_requirement_specification/domain_model.md)
 	- 6.4 [State Model（状态模型）](documents/6_requirement_specification/state_model.md)
@@ -41,3 +41,5 @@ X3. Final Report
   - [18214772-前端开发](documents/x3_final_report/18214772_前端开发.md)
   - [18214729-数据库设计](documents/x3_final_report/18214729_数据库设计.md)
   - [18214639-项目规划](documents/x3_final_report/18214639_项目规划.md)
+  - [18214711-产品需求](documents/x3_final_report/18214711_产品需求.md)
+
