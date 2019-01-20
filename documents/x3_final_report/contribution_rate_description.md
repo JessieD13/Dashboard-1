@@ -26,6 +26,18 @@
 		<td>时福源</td>
 	</tr>
 	<tr>
+		<td>总贡献率</td>
+		<td></td>
+		<td>16%</td>
+		<td>14%</td>
+		<td>15%</td>
+		<td>13%</td>
+		<td>15%</td>
+		<td>13%</td>
+		<td>13%</td>
+	</tr>
+	
+	<tr>
 		<td>源码贡献率</td>
 		<td>面向商家前端</td>
 		<td>100%</td>
@@ -258,12 +270,12 @@
 	</tr>
 	<tr>
 		<td></td>
-		<td>包图</td>
+		<td>BCE</td>
 		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
-    <td></td>
+    <td>100%</td>
     <td></td>
 		<td></td>
 	</tr>
@@ -298,6 +310,7 @@
 		<td></td>
 		<td></td>
 		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -313,13 +326,13 @@
 	<tr>
 		<td>总贡献率</td>
 		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-		<td></td>
-				<td></td>
+		<td>16%</td>
+		<td>14%</td>
+		<td>15%</td>
+		<td>13%</td>
+		<td>15%</td>
+		<td>13%</td>
+		<td>13%</td>
 	</tr>
 </table>
 
