@@ -9,7 +9,8 @@
 | 18214729 | 高凯诗 | 数据库&API设计、文档 |
 | 18214639 | 李楠 | 项目规划、前期调研 |
 | 18214711 | 陈洁璇 | 需求分析、设计文档 |
-
+| 18214765 | 梁赋航 | 后端开发、测试 |
+| 18214809 | 时福源 | 后端开发、测试 |
 
 ## 贡献率
 <table>
@@ -21,11 +22,15 @@
 		<td>高凯诗</td>
 		<td>李楠</td>
 		<td>陈洁璇</td>
+		<td>梁赋航</td>
+		<td>时福源</td>
 	</tr>
 	<tr>
 		<td>源码贡献率</td>
 		<td>面向商家前端</td>
 		<td>100%</td>
+		<td></td>
+		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -36,6 +41,8 @@
 		<td>面向用户前端</td>
 		<td></td>
 		<td>100%</td>
+		<td></td>
+		<td></td>
 		<td></td>
 		<td></td>
     <td></td>
@@ -47,7 +54,9 @@
 		<td></td>
 		<td></td>
 		<td></td>
-    <td></td>
+		<td></td>
+		<td>60%</td>
+		<td>40%</td>
 	</tr>
 	<tr>
 		<td>设计贡献率</td>
@@ -57,6 +66,8 @@
     	<td>50%</td>
 		<td></td>
 		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -64,6 +75,8 @@
 		<td></td>
     <td></td>
 		<td>100%</td>
+		<td></td>
+		<td></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -75,6 +88,8 @@
 		<td>100%</td>
 		<td></td>
 		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -84,11 +99,15 @@
 		<td>50%</td>
 		<td></td>
 		<td>50%</td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>测试贡献率</td>
 		<td>面向商家前端</td>
 		<td>100%</td>
+		<td></td>
+		<td></td>
 		<td></td>
 		<td></td>
 		<td></td>
@@ -101,7 +120,9 @@
 		<td>100%</td>
 		<td></td>
 		<td></td>
+		<td></td>
     <td></td>
+	<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -110,7 +131,9 @@
 		<td></td>
 		<td></td>
 		<td></td>
-    <td></td>
+		<td></td>
+		<td>40%</td>
+		<td>60%</td>
 	</tr>
 	<tr>
 		<td>文档贡献率</td>
@@ -119,6 +142,8 @@
 		<td></td>
     <td></td>
 		<td>100%</td>
+		<td></td>
+		<td></td>
 		<td></td>
 	</tr>
 	<tr>
@@ -129,14 +154,18 @@
     <td></td>
 		<td>100%</td>
 		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
 		<td>项目愿景</td>
 		<td></td>
 		<td></td>
+		<td></td>
     <td></td>
 		<td>100%</td>
+		<td></td>
 		<td></td>
 	</tr>
 	<tr>
@@ -147,6 +176,8 @@
     <td></td>
 		<td>100%</td>
 		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -156,6 +187,8 @@
 		<td></td>
     	<td></td>
     	<td>100%</td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -165,6 +198,8 @@
 		<td></td>
     	<td></td>
     	<td>100%</td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -174,6 +209,8 @@
 		<td></td>
     	<td></td>
     	<td>100%</td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -183,6 +220,8 @@
 		<td></td>
     	<td></td>
     	<td>100%</td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -192,6 +231,8 @@
 		<td></td>
     	<td></td>
     	<td>100%</td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -201,6 +242,8 @@
 		<td>50%</td>
 		<td></td>
 		<td>50%</td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -210,6 +253,8 @@
 		<td>100%</td>
 		<td></td>
 		<td></td>
+		<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -217,8 +262,10 @@
 		<td></td>
 		<td></td>
 		<td></td>
+		<td></td>
     <td></td>
     <td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -228,6 +275,8 @@
 		<td></td>
     <td></td>
     <td></td>
+	<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -237,6 +286,8 @@
 		<td></td>
     <td></td>
     <td></td>
+	<td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -244,6 +295,7 @@
 		<td>100%</td>
 		<td></td>
     <td></td>
+		<td></td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -255,6 +307,8 @@
 		<td></td>
 		<td>100%</td>
 		<td></td>
+		<td></td>
+				<td></td>
 	</tr>
 	<tr>
 		<td>总贡献率</td>
@@ -264,5 +318,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
+		<td></td>
+				<td></td>
 	</tr>
 </table>
+
